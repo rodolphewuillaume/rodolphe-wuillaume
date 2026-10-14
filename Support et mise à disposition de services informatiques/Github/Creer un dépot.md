@@ -1,0 +1,6 @@
+- Se rendre sur [Github](https://github.com/) 
+- Créer un compte ou se connecter
+- Créer un repository avec +
+- Nommer le repository
+- Ne pas oublier de le laisser en public pour que tout le monde puisse y accéder
+- Le dépot est créé et accessible
